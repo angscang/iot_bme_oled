@@ -1,5 +1,5 @@
 {
-    "name": "IoT_BME_OLED",
+    "name": "IoT_Weight_OLED",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -7,7 +7,8 @@
         "microphone": "*",
         "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13",
         "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v4.6.0",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "pxt-SGBotic-scale": "github:SGBotic/pxt-SGBotic-scale#8ded21e03ceae022b1143e73be23aadeb11177a4"
     },
     "files": [
         "main.blocks",
